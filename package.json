@@ -1,6 +1,6 @@
 {
   "name": "@bismagul/project02_atm",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "An ATM machine  ",
   "main": "main.js",
   "type": "module",
@@ -11,7 +11,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["Pin code: 2040"],
   "author": "",
   "license": "MIT",
   "dependencies": {
