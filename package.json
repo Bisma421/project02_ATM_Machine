@@ -12,7 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["Pin code: 2040"],
-  "author": "Bisma Gul",
+  "author": "Bisma gul",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
